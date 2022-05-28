@@ -24,9 +24,10 @@ Nadhan Yamala
 Division of Labor:
 =================
 
-Nadhan Yamala: 
+Nadhan Yamala: Struct for elevator status (for proc file use), Move the elevator based on the state,Function for removing all passengers (elevator
+	             and waiting) used by module exit, 
 
-Divya Lakshmi: 
+Divya Lakshmi: System Calls, Return passenger unit based off passenger type, Return passenger weight based off passenger type,Free up memory allocated for.                       'message when proc file is removed, Testing, Readme, MakeFile, 
 
 
 File Details
@@ -36,4 +37,3 @@ main.c: Contains the main method for using the program
 
 MakeFile : all the make commonds to compile, execute and clean
 
-Git commit logs : contains the git commit log
